@@ -28,3 +28,4 @@
 2/5, 文字列関数
 2/6, 日付関数
 2/7, 変換関数
+2/8, 述語 LIKE, BETWEEN, IS NULL, IS NOT NULL
